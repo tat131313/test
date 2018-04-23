@@ -1,6 +1,6 @@
 <?php
     function offset($arr,$n){
-        $count = count($arr);
+        $count = count($arr); // it's comment
         /*$newArr[0]=$arr[$count-2];
         $newArr[1]=$arr[$count-1];*/
         for($j = 0, $n1 = $n; $j < $n; $j++){   
